@@ -1,0 +1,3 @@
+C:\Users\dacero\source\repos\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\dacero\source\repos\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\dacero\source\repos\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs

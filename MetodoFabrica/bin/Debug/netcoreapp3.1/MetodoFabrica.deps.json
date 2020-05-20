@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MetodoFabrica/1.0.0": {
+        "runtime": {
+          "MetodoFabrica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetodoFabrica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
