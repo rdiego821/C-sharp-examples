@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z6zb1ctXXB4KE/eiL3QxMOXYMoT7HqUXdXpSC/nY45eNk7/AZ78d+Qmighzdk+w6Z2Z8H4O6+7wJUqsm4NEdVg==",
+  "dgSpecHash": "NSA+KoYBKy3NoP51ffBTgyatemr5Ivmc5eBQHeqCWQKvrvvoBCb3tCEPgu0O8gljtXpSfdQKvEC4LVrjna97gg==",
   "success": true,
-  "projectFilePath": "C:\\Patrones\\Prototipo\\Prototipo.csproj",
+  "projectFilePath": "C:\\Patrones\\C-sharp-examples\\Prototipo\\Prototipo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

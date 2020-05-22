@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Patrones\\Builder\\Builder.csproj": {}
+    "C:\\Patrones\\C-sharp-examples\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "C:\\Patrones\\Builder\\Builder.csproj": {
+    "C:\\Patrones\\C-sharp-examples\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Patrones\\Builder\\Builder.csproj",
+        "projectUniqueName": "C:\\Patrones\\C-sharp-examples\\Builder\\Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "C:\\Patrones\\Builder\\Builder.csproj",
+        "projectPath": "C:\\Patrones\\C-sharp-examples\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\dacero\\.nuget\\packages\\",
-        "outputPath": "C:\\Patrones\\Builder\\obj\\",
+        "outputPath": "C:\\Patrones\\C-sharp-examples\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dacero\\AppData\\Roaming\\NuGet\\NuGet.Config",

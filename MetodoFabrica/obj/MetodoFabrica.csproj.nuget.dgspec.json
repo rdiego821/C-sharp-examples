@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Patrones\\MetodoFabrica\\MetodoFabrica.csproj": {}
+    "C:\\Patrones\\C-sharp-examples\\MetodoFabrica\\MetodoFabrica.csproj": {}
   },
   "projects": {
-    "C:\\Patrones\\MetodoFabrica\\MetodoFabrica.csproj": {
+    "C:\\Patrones\\C-sharp-examples\\MetodoFabrica\\MetodoFabrica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Patrones\\MetodoFabrica\\MetodoFabrica.csproj",
+        "projectUniqueName": "C:\\Patrones\\C-sharp-examples\\MetodoFabrica\\MetodoFabrica.csproj",
         "projectName": "MetodoFabrica",
-        "projectPath": "C:\\Patrones\\MetodoFabrica\\MetodoFabrica.csproj",
+        "projectPath": "C:\\Patrones\\C-sharp-examples\\MetodoFabrica\\MetodoFabrica.csproj",
         "packagesPath": "C:\\Users\\dacero\\.nuget\\packages\\",
-        "outputPath": "C:\\Patrones\\MetodoFabrica\\obj\\",
+        "outputPath": "C:\\Patrones\\C-sharp-examples\\MetodoFabrica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dacero\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Patrones\\Prototipo\\Prototipo.csproj",
+      "projectUniqueName": "C:\\Patrones\\C-sharp-examples\\Prototipo\\Prototipo.csproj",
       "projectName": "Prototipo",
-      "projectPath": "C:\\Patrones\\Prototipo\\Prototipo.csproj",
+      "projectPath": "C:\\Patrones\\C-sharp-examples\\Prototipo\\Prototipo.csproj",
       "packagesPath": "C:\\Users\\dacero\\.nuget\\packages\\",
-      "outputPath": "C:\\Patrones\\Prototipo\\obj\\",
+      "outputPath": "C:\\Patrones\\C-sharp-examples\\Prototipo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dacero\\AppData\\Roaming\\NuGet\\NuGet.Config",

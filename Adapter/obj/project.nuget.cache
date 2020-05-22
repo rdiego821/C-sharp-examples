@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FM+uvRn/2BANM8wusFveqjzfjxPbgHb7nmEo3zNl2SxLiUkFqm3rA7YmhluKNv8x9GMa2h1g2wjLrdfMHRZJyw==",
+  "dgSpecHash": "96Iy0DYNSOkYqd/Ag5ebvD954uCrciO7N4vPsNEJW6HoBtezePARILKcknm98A/TFBnIemHzsEZ8mM26D/bKNA==",
   "success": true,
-  "projectFilePath": "C:\\Patrones\\Adapter\\Adapter.csproj",
+  "projectFilePath": "C:\\Patrones\\C-sharp-examples\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

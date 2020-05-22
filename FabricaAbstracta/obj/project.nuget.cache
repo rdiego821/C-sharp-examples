@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aDN2AupFCMAFbMUQd+GtmCCxzWGrJBhNFQii1Ei2IPWvVOZLjnPlhbhLqQHOPl6nxfA4ziY4XJQ9GW4NL8DwIg==",
+  "dgSpecHash": "QsgLhJuDaS7zDS2TUXyUClCaUvi2XcnwkFM2Ex6d/EEENCewlngTt2JnKvi0rBvmO0oH0CBVLxyMazb8AgZX0w==",
   "success": true,
-  "projectFilePath": "C:\\Patrones\\FabricaAbstracta\\FabricaAbstracta.csproj",
+  "projectFilePath": "C:\\Patrones\\C-sharp-examples\\FabricaAbstracta\\FabricaAbstracta.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J9fKxQiqcS/iobD1urUAnxI3KEIpPWZ7LIjqta6Fk0MK0rTaIvYwAMEzxpLZkPOWmzWukIooIwvn2UX8s+kfaQ==",
+  "dgSpecHash": "FRpciWoYi6Vf99k2VVuPTF3X5Y0waZ4CP+3JZbYzfrgLVkv/Kj8vC8VYIEktnwg6K8lC1Jdugrg6AJgXLGSK+w==",
   "success": true,
-  "projectFilePath": "C:\\Patrones\\Builder\\Builder.csproj",
+  "projectFilePath": "C:\\Patrones\\C-sharp-examples\\Builder\\Builder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
