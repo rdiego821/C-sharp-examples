@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "..\Fachada\Facade
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyWeight", "..\FlyWeight\FlyWeight.csproj", "{30AF176B-C2F2-4882-B940-98651A9FA164}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comportamiento", "Comportamiento", "{F97E78BF-4521-4657-8C73-C79BD7E9A40F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain", "..\Chain\Chain.csproj", "{4D936A1F-B2D7-4D6C-866B-1F380062E6BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +83,10 @@ Global
 		{30AF176B-C2F2-4882-B940-98651A9FA164}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30AF176B-C2F2-4882-B940-98651A9FA164}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30AF176B-C2F2-4882-B940-98651A9FA164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D936A1F-B2D7-4D6C-866B-1F380062E6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D936A1F-B2D7-4D6C-866B-1F380062E6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D936A1F-B2D7-4D6C-866B-1F380062E6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D936A1F-B2D7-4D6C-866B-1F380062E6BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +103,7 @@ Global
 		{122AA491-F439-4D09-A70B-34D94E70F4DE} = {A2CD6DB8-76D9-4545-A5CC-40D1F5879F63}
 		{FB8E747A-B2A4-49F7-8FA9-122A80F527C1} = {A2CD6DB8-76D9-4545-A5CC-40D1F5879F63}
 		{30AF176B-C2F2-4882-B940-98651A9FA164} = {A2CD6DB8-76D9-4545-A5CC-40D1F5879F63}
+		{4D936A1F-B2D7-4D6C-866B-1F380062E6BE} = {F97E78BF-4521-4657-8C73-C79BD7E9A40F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03B79FD6-F4B0-46DF-A093-12887763D6CC}
