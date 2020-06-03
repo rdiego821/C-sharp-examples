@@ -23,27 +23,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "..\Bridge\Bridge.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "..\Composite\Composite.csproj", "{C8CD870F-3906-4AE5-BDA1-E328CC0CE62A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorador", "..\Decorador\Decorador.csproj", "{122AA491-F439-4D09-A70B-34D94E70F4DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorador", "..\Decorador\Decorador.csproj", "{122AA491-F439-4D09-A70B-34D94E70F4DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "..\Fachada\Facade.csproj", "{FB8E747A-B2A4-49F7-8FA9-122A80F527C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "..\Fachada\Facade.csproj", "{FB8E747A-B2A4-49F7-8FA9-122A80F527C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyWeight", "..\FlyWeight\FlyWeight.csproj", "{30AF176B-C2F2-4882-B940-98651A9FA164}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlyWeight", "..\FlyWeight\FlyWeight.csproj", "{30AF176B-C2F2-4882-B940-98651A9FA164}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comportamiento", "Comportamiento", "{F97E78BF-4521-4657-8C73-C79BD7E9A40F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain", "..\Chain\Chain.csproj", "{4D936A1F-B2D7-4D6C-866B-1F380062E6BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chain", "..\Chain\Chain.csproj", "{4D936A1F-B2D7-4D6C-866B-1F380062E6BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "..\Command\Command.csproj", "{2B06E34F-9A34-4CB0-BBC0-09AC3A78D190}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "..\Command\Command.csproj", "{2B06E34F-9A34-4CB0-BBC0-09AC3A78D190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interprete", "..\Interprete\Interprete.csproj", "{2E14C0B0-365C-44C4-92F4-B56C139C6554}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interprete", "..\Interprete\Interprete.csproj", "{2E14C0B0-365C-44C4-92F4-B56C139C6554}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterador", "..\Iterador\Iterador.csproj", "{BC6FDDAF-A127-4769-A19D-B7314CF7F663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterador", "..\Iterador\Iterador.csproj", "{BC6FDDAF-A127-4769-A19D-B7314CF7F663}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediador", "..\Mediador\Mediador.csproj", "{CCAB3F48-4C1A-4A4B-AAF0-62096FCFE72E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediador", "..\Mediador\Mediador.csproj", "{CCAB3F48-4C1A-4A4B-AAF0-62096FCFE72E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento01", "..\Memento\Memento01.csproj", "{74B0EB52-404F-4FB1-A0B9-31CBBDB7A9AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento01", "..\Memento\Memento01.csproj", "{74B0EB52-404F-4FB1-A0B9-31CBBDB7A9AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observador01", "..\Observador01\Observador01.csproj", "{365256A8-E006-4FDB-B5BD-FCAEB7753D18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observador01", "..\Observador01\Observador01.csproj", "{365256A8-E006-4FDB-B5BD-FCAEB7753D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estado", "..\Estado\Estado.csproj", "{1ED5CBEA-AFD6-4444-A566-11D0289A07BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{365256A8-E006-4FDB-B5BD-FCAEB7753D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{365256A8-E006-4FDB-B5BD-FCAEB7753D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{365256A8-E006-4FDB-B5BD-FCAEB7753D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED5CBEA-AFD6-4444-A566-11D0289A07BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED5CBEA-AFD6-4444-A566-11D0289A07BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED5CBEA-AFD6-4444-A566-11D0289A07BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED5CBEA-AFD6-4444-A566-11D0289A07BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,6 +152,7 @@ Global
 		{CCAB3F48-4C1A-4A4B-AAF0-62096FCFE72E} = {F97E78BF-4521-4657-8C73-C79BD7E9A40F}
 		{74B0EB52-404F-4FB1-A0B9-31CBBDB7A9AD} = {F97E78BF-4521-4657-8C73-C79BD7E9A40F}
 		{365256A8-E006-4FDB-B5BD-FCAEB7753D18} = {F97E78BF-4521-4657-8C73-C79BD7E9A40F}
+		{1ED5CBEA-AFD6-4444-A566-11D0289A07BB} = {F97E78BF-4521-4657-8C73-C79BD7E9A40F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03B79FD6-F4B0-46DF-A093-12887763D6CC}
